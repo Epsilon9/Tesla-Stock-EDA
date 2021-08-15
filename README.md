@@ -16,4 +16,13 @@ This repo is for the Exploratory data analysis on the stock prices of Tesla from
 
 <img src=https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg width=100 length=100>
 
+## Visualizations
+
+<img src=https://github.com/Epsilon9/Tesla-Stock-EDA/blob/main/Assets/The%20General%20Trend%20of%20all%20values.png>
+<img src=https://github.com/Epsilon9/Tesla-Stock-EDA/blob/main/Assets/The%20Major%20Trends%20in%20the%20Timeline%20of%20stocks.png>
+<img src=https://github.com/Epsilon9/Tesla-Stock-EDA/blob/main/Assets/Adjusted%20Close%20from%202014%20to%202015.png>
+<img src=https://github.com/Epsilon9/Tesla-Stock-EDA/blob/main/Assets/Boxplot%20for%20the%20values.png> 
+<img src=https://github.com/Epsilon9/Tesla-Stock-EDA/blob/main/Assets/Violin%20plot%20of%20values.png>
+<img src=https://github.com/Epsilon9/Tesla-Stock-EDA/blob/main/Assets/Adjusted%20Close%20from%202014%20to%202015%20with%20a%20moving%20average%20of%2010%20days.png>
+
 
