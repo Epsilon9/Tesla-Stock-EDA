@@ -1,5 +1,7 @@
 # Tesla-Stock-EDA
-This repo is for the Exploratory data analysis on the stock prices of Tesla from 2010-06-29 to 2020-02-03
+This repo is for the Exploratory data analysis on the stock prices of Tesla from 2010-06-29 to 2020-02-03. This serves as a study for one of the biggest gainers in stock market in the year 2019 - 2020
+.The growth of Tesla as a company
+Basic EDA into how the company has progressed
 
 ## This data is avaliable at Kaggle.com 
 - [Tesla Stocks Data on Kaggle](https://www.kaggle.com/timoboz/tesla-stock-data-from-2010-to-2020)
